@@ -1,13 +1,10 @@
 # FP - Project
 
 ## Problem(s): 
-- A simple Mine Game and a auxiliar Text cleaner in python.
+- A simple Mine Game and an auxiliary Text cleaner in python.
 
 ## Description: 
- - FP is Programing Fundamentals and was my first touch with programing languages. <br>This is why booth projects are simplified versions.
-
-## Solution: 
-Python Classes based.
+ - FP, or 'Programming Fundamentals,' was my first experience with programming languages. <br>This is why both projects are simplified, class-based versions in Python.
 
 ## Grade: 
  - 19 / 20
