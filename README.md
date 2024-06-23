@@ -1,8 +1,8 @@
 # FP - Project
 
 ## Problem(s): 
-Mine Game
-Text Clear
+Mine Game.<br>
+Text Clear.
 
 ## Solution: 
-Python Classes based
+Python Classes based.
