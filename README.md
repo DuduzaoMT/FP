@@ -1,7 +1,8 @@
 # FP - Project
 
-## Problem: 
+## Problem(s): 
 Mine Game
+Text Clear
 
 ## Solution: 
 Python Classes based
